@@ -11,7 +11,8 @@ We use the information collected to:
 ● Improve our application and user experience.
 3.
 ● Communicate with you and provide customer support.Protection of Information
-4.We take appropriate security measures to protect your personal information from unauthorized access, use, or disclosure.Sharing of Information
+4.
+We take appropriate security measures to protect your personal information from unauthorized access, use, or disclosure.Sharing of Information
 We do not sell or rent your personal information to any third party. We may share your information in the following circumstances:
 ● As required by law.
 5.
